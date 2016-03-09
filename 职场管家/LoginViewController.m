@@ -46,7 +46,7 @@
     WS(ws);
     //Logo ImageView
     UIImageView *logoImageView = [[UIImageView alloc]init];
-    logoImageView.image = [UIImage imageNamed:@"ruiwen.jpg"];
+    logoImageView.image = [UIImage imageNamed:@"ZhiGuan.png"];
     [self.view addSubview:logoImageView];
     //bgimage
     UIImageView  *loginBackgroundImageView = [[UIImageView alloc] init];
